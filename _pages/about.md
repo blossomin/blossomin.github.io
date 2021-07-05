@@ -25,8 +25,16 @@ Peiqing Chen, **Dong Chen**, Lingxiao Zheng, Jizhou Li, Tong Yang
 ACM Conference on Management of Data (**SIGMOD**), 2021
 [ Full Paper: [PDF](https://dl.acm.org/doi/pdf/10.1145/3448016.3452784) ] [ Video: [Link](https://dl.acm.org/doi/10.1145/3448016.3452784) ]
 
+* **Out of Many We are One: Measuring Item Batch with Clock-Sketch**  
+Peiqing Chen, **Dong Chen**, Lingxiao Zheng, Jizhou Li, Tong Yang  
+ACM Conference on Management of Data (**SIGMOD**), 2021    
+[ Full Paper: [PDF](https://dl.acm.org/doi/pdf/10.1145/3448016.3452784) ] [ Video: [Link](https://dl.acm.org/doi/10.1145/3448016.3452784) ]
+
+
 
 
 CV:
 ======
-* [CV.pdf](https://renjiezhao.github.io/files/resume_chendong.pdf) (Last updated: 10/2020)
+* [CV.pdf](https://SakuraSak.github.io/files/resume_chendong.pdf) (Last updated: 10/2020)
+
+
