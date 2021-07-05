@@ -33,6 +33,6 @@ TA for *Introduction for Computer System*, Peking University, 2020 Fall
 
 CV:
 ======
-* [CV.pdf](https://sakurasak.github.io/files/resume_chendong.pdf) (Last updated: 10/2020)
+* [CV.pdf](https://github.com/SakuraSak/SakuraSak.github.io/blob/master/files/resume__chendong.pdf) (Last updated: 7/2021)
 
 
