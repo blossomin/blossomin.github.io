@@ -19,11 +19,9 @@ News:
 
 Publications:
 ======
-Note: ’*’ marks co-primary authors.  
 * **Out of Many We are One: Measuring Item Batch with Clock-Sketch**  
-Peiqing Chen, **Dong Chen**
-
-Annual conference of the ACM Special Interest Group on Data Communication on the applications, technologies, architectures, and protocols for computer communication (**SIGCOMM**), 2020  
+Peiqing Chen, **Dong Chen**, Lingxiao Zheng, Jizhou Li, Tong Yang
+ACM Conference on Management of Data (**SIGMOD**), 2021
 [ Full Paper: [PDF](https://dl.acm.org/doi/pdf/10.1145/3448016.3452784) ] [ Video: [Link](https://dl.acm.org/doi/10.1145/3448016.3452784) ]
 
 
