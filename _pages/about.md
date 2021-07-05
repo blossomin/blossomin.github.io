@@ -14,7 +14,7 @@ I am a junior student at [Computer Science](https://cs.pku.edu.cn/) Department i
 
 News:
 ======
-* 07/2021. No new for now!
+* 07/2021. No news for now!
 
 
 Publications:
