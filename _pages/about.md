@@ -28,7 +28,7 @@ ACM Conference on Management of Data (**SIGMOD**), 2021
 
 Teaching:
 ======
-TA for *Introduction for Computer System*, Peking University, 2020 Fall
+* TA for *Introduction for Computer System*, Peking University, 2020 Fall
 
 
 CV:
