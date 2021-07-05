@@ -33,6 +33,6 @@ Teaching:
 
 CV:
 ======
-* [CV.pdf](https://github.com/SakuraSak/SakuraSak.github.io/blob/master/files/resume__chendong.pdf) (Last updated: 7/2021)
+* [CV.pdf](https://github.com/SakuraSak/SakuraSak.github.io/blob/master/files/resume.pdf) (Last updated: 7/2021)
 
 
