@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a junior student at [Computer Science](https://cs.pku.edu.cn/) Department in [Peking University](https://pku.edu.cn). I have worked on Database and Computer Architecture. Now I'm fascinated by Storage System, Computer Network, and Distributed Computing. Building system is enjoyable!
+Welcome! 
 
+I am a senior student at [Computer Science](https://cs.pku.edu.cn/) Department in [Peking University](https://www.pku.edu.cn). I have worked on Database and Computer Architecture. I will work on cloud computing system, especially serverless computing!
 
 
 News:
 ======
+* 01/2022. I will join Alibaba Cloud in Feb!
 * 07/2021. No news for now!
 
 
