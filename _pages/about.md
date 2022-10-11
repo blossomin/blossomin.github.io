@@ -37,8 +37,4 @@ Teaching:
 * TA for *Introduction for Computer System*, Peking University, 2020 Fall
 
 
-CV:
-======
-* upon request.
-
 
