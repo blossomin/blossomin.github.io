@@ -15,7 +15,7 @@ I am a Ph.D. student at [Computer Science and Engineering](https://cse.hkust.edu
 
 News:
 ======
-* No news for now!
+* No news now!
 
 Publications:
 ======
