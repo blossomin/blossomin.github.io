@@ -10,14 +10,12 @@ redirect_from:
 
 Welcome! 
 
-I am a senior student at [Computer Science](https://cs.pku.edu.cn/) Department in [Peking University](https://www.pku.edu.cn). I have worked on Database and Computer Architecture. I will work on cloud computing system, especially serverless computing!
+I am a Ph.D. student at [Computer Science and Engineering](https://cse.hkust.edu.hk/) Department in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), where I’m supervised by Prof. Wei Wang and Prof. Shuai Wang. Prior to that, I received my B.Sci. degree in Computer Science from Peking University in 2022.
 
 
 News:
 ======
-* 01/2022. I will join Alibaba Cloud in Feb!
-* 07/2021. No news for now!
-
+* No news for now!
 
 Publications:
 ======
@@ -41,6 +39,6 @@ Teaching:
 
 CV:
 ======
-* [CV.pdf](https://github.com/SakuraSak/SakuraSak.github.io/blob/master/files/resume.pdf) (Last updated: 7/2021)
+* upon request.
 
 
