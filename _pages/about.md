@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! 
 
-Dong Chen am a first-year Ph.D. student at [Computer Science and Engineering](https://cse.hkust.edu.hk/) Department in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), where I’m supervised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Prior to that, he received my B.S. in Computer Science from Peking University in 2022. 
+Dong Chen is a first-year Ph.D. student at [Computer Science and Engineering](https://cse.hkust.edu.hk/) Department in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), where I’m supervised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Prior to that, he received my B.S. in Computer Science from Peking University in 2022. 
 
 
 News:
@@ -31,7 +31,6 @@ Experience:
 Research Intership 2022.02-2022.08 @ Alibaba Cloud
 
 ByteCamp 2021 @ ByteDance
-
 
 
 Teaching:
