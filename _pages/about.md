@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! 
 
-I am a Ph.D. student at [Computer Science and Engineering](https://cse.hkust.edu.hk/) Department in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), where I’m supervised by Prof. Wei Wang and Prof. Shuai Wang. Prior to that, I received my B.Sci. degree in Computer Science from Peking University in 2022.
+Dong Chen am a first-year Ph.D. student at [Computer Science and Engineering](https://cse.hkust.edu.hk/) Department in [The Hong Kong University of Science and Technology](https://hkust.edu.hk), where I’m supervised by [Prof. Wei Wang](https://www.cse.ust.hk/~weiwa/) and [Prof. Shuai Wang](https://www.cse.ust.hk/~shuaiw/). Prior to that, he received my B.S. in Computer Science from Peking University in 2022. 
 
 
 News:
@@ -28,6 +28,8 @@ ACM Conference on Management of Data (**SIGMOD**), 2021
 
 Experience:
 ======
+Research Intership 2022.02-2022.08 @ Alibaba Cloud
+
 ByteCamp 2021 @ ByteDance
 
 
