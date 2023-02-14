@@ -15,10 +15,14 @@ Dong Chen is a first-year Ph.D. student at [Computer Science and Engineering](ht
 
 News:
 ======
-* No news now!
+* Coming soon!
 
 Publications:
 ======
+* **CCTEST: Testing and Repairing Code Completion Systems**  
+Zongjie Li, Chaozheng Wang, Zhibo Liu, Haoxuan Wang, **Dong Chen**, Shuai Wang, Cuiyun Gao  
+Proceedings of the 45th International Conference on Software Engineering. (**ICSE**), 2023    
+[ Preprint: [PDF](https://arxiv.org/pdf/2208.08289.pdf) ] 
 
 * **Out of Many We are One: Measuring Item Batch with Clock-Sketch**  
 Peiqing Chen, **Dong Chen**, Lingxiao Zheng, Jizhou Li, Tong Yang  
@@ -28,10 +32,13 @@ ACM Conference on Management of Data (**SIGMOD**), 2021
 
 Experience:
 ======
-Research Intership 2022.02-2022.08 @ Alibaba Cloud
+* Research Intership 2022.02-2022.08 @ Alibaba Cloud
 
-ByteCamp 2021 @ ByteDance
+* ByteCamp 2021 @ ByteDance
 
+Award:
+======
+* RedBird Award at HKUST
 
 Teaching:
 ======
