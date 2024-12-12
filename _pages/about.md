@@ -40,11 +40,11 @@ ACM Conference on Management of Data (**SIGMOD**), 2021
 
 Experience:
 ======
-* Research Internship @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen, 2024.04-2024.10
+* Research internship @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen, 2024.04-2024.10
 
-* Research Internship @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen, 2023.06-2023.09
+* Research internship @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen, 2023.06-2023.09
 
-* Research Internship @ Alibaba Cloud, 2022.02-2022.08
+* Research internship @ Alibaba Cloud, 2022.02-2022.08
 
 * ByteCamp @ ByteDance, 2021 Summer
 
