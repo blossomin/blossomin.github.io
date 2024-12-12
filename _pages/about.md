@@ -19,6 +19,14 @@ News:
 
 Publications:
 ======
+* **Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**
+Dong Chen, Alice Dethise, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
+[[Technical Report](https://arxiv.org/pdf/2412.08534), December 2024.]
+
+* **FaaSwap: SLO-Aware, GPU-Efficient Serverless Inference via Model Swapping**
+Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang
+[[Technical Report](https://arxiv.org/abs/2306.03622), June 2023.]
+
 * **CCTEST: Testing and Repairing Code Completion Systems**  
 Zongjie Li, Chaozheng Wang, Zhibo Liu, Haoxuan Wang, **Dong Chen**, Shuai Wang, Cuiyun Gao  
 Proceedings of the 45th International Conference on Software Engineering. (**ICSE**), 2023    
