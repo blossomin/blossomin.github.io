@@ -20,11 +20,11 @@ News:
 Publications:
 ======
 * **Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**
-Dong Chen, Alice Dethise, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
+**Dong Chen**, Alice Dethise, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
 [[Technical Report](https://arxiv.org/pdf/2412.08534), December 2024.]
 
 * **FaaSwap: SLO-Aware, GPU-Efficient Serverless Inference via Model Swapping**
-Minchen Yu, Ao Wang, Dong Chen, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang
+Minchen Yu, Ao Wang, **Dong Chen**, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang
 [[Technical Report](https://arxiv.org/abs/2306.03622), June 2023.]
 
 * **CCTEST: Testing and Repairing Code Completion Systems**  
@@ -40,20 +40,27 @@ ACM Conference on Management of Data (**SIGMOD**), 2021
 
 Experience:
 ======
-* Research Internship 2024.04-2024.010 @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen
+* Research Internship @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen, 2024.04-2024.10
 
-* Research Internship 2023.06-2023.09 @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen
+* Research Internship @ Nokia Bell Labs, mentor: Dr. Ruichuan Chen, 2023.06-2023.09
 
-* Research Intership 2022.02-2022.08 @ Alibaba Cloud
+* Research Internship @ Alibaba Cloud, 2022.02-2022.08
 
-* ByteCamp 2021 @ ByteDance
+* ByteCamp @ ByteDance, 2021 Summer
 
 Award:
 ======
-* RedBird Award at HKUST
+* RedBird Award at HKUST, 2024
+* RedBird Award at HKUST, 2022
 
 Teaching:
 ======
+* TA for *Introduction for COMP 2011 - Programming with C++*, HKUST, 2024 Fall
+
+* TA for *Introduction for COMP 2211 - Exploring Artificial Intelligence*, HKUST, 2023 Fall
+
+* TA for *Introduction for COMP 4632 - Practicing Cybersecurity: Attacks and Counter-measures*, HKUST, 2023 Spring
+
 * TA for *Introduction for Computer System*, Peking University, 2020 Fall
 
 
