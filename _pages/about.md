@@ -23,7 +23,7 @@ Publications:
 **Dong Chen**, Alice Dethise, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
 [[Technical Report](https://arxiv.org/pdf/2412.08534), December 2024.]
 
-* **Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference**
+* **Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference**\
 Minchen Yu, Ao Wang, **Dong Chen**, Haoxuan Yu, Xiaonan Luo, Zhuohao Li, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang\
 Proceedings of USENIX Annual Technical Conference (**ATC** ’25), Boston, MA, USA, July 2025.
 [[Arxiv preprint](https://arxiv.org/abs/2306.03622)]
