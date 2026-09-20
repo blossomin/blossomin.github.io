@@ -19,6 +19,25 @@ News:
 
 Publications:
 ======
+* **Chorus: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode**\
+**Dong Chen\***, Yukun Zhou*, Sheng Yao*, Ruichuan Chen, Binhang Yuan, Shuai Wang, Luping Wang, Cheng Huang, Guodong Yang, Liping Zhang, and Wei Wang,\
+Proceedings of ACM Annual Technical Conference (**ATC** ’26), Hong Kong, 2026.
+[[ATC'26](https://arxiv.org/pdf/2512.xxx), 2026.]
+
+
+* **RepetitionCurse: Measuring and Understanding Router Imbalance in Mixture-of-Experts LLMs under DoS Stress**\
+Ruixuan Huang, Qingyue Wang, Hantao Huang, Yudong Gao, Dong Chen, Shuai Wang, Wei Wang\
+Proceedings of the 43 rd International Conference on Machine
+Learning, Seoul, South Korea. 2026
+[[ICML'26](https://arxiv.org/pdf/2512.23995), 2026.]
+
+
+* **Enabling Low-Latency, GPU-Efficient Serverless Inference with Model Swapping**\
+Minchen Yu, Ao Wang, Bohui Wu, Yuxuan Liu, **Dong Chen**, Haoxuan Yu, Wei Wang, Ruichuan Chen, Dapeng Nie, Haoran Yang, Yu Ding\
+ACM Transactions on Architecture and Code Optimization (**TACO** ’26), 2026.
+[[TACO'26](https://dl.acm.org/doi/abs/10.1145/3800690)]
+
+
 * **Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**\
 **Dong Chen**, Alice Dethise, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
 [[Technical Report](https://arxiv.org/pdf/2412.08534), December 2024.]
