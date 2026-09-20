@@ -20,7 +20,7 @@ News:
 Publications:
 ======
 * **Chorus: GPU–CPU Cooperative LLM Serving for Length-Skewed Decode**\
-**Dong Chen\***, Yukun Zhou\*, Sheng Yao\*, Ruichuan Chen, Binhang Yuan, Shuai Wang, Luping Wang, Cheng Huang, Guodong Yang, Liping Zhang, and Wei Wang,\
+**Dong Chen^**, Yukun Zhou^, Sheng Yao^, Ruichuan Chen, Binhang Yuan, Shuai Wang, Luping Wang, Cheng Huang, Guodong Yang, Liping Zhang, and Wei Wang,\
 Proceedings of ACM Annual Technical Conference (**ATC** ’26), Hong Kong, 2026.
 [[ATC'26](https://arxiv.org/pdf/2512.xxx), 2026.]
 
@@ -39,7 +39,7 @@ ACM Transactions on Architecture and Code Optimization (**TACO** ’26), 2026.
 
 
 * **Protecting Confidentiality, Privacy and Integrity in Collaborative Learning**\
-**Dong Chen\***, Alice Dethise\*, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
+**Dong Chen^**, Alice Dethise^, Istemi Ekin Akkus, Ivica Rimac, Klaus Satzke, Antti Koskela, Marco Canini, Wei Wang, Ruichuan Chen
 [[Technical Report](https://arxiv.org/pdf/2412.08534), December 2024.]
 
 * **Torpor: GPU-Enabled Serverless Computing for Low-Latency, Resource-Efficient Inference**\
